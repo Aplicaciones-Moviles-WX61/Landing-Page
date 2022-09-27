@@ -835,6 +835,10 @@ a {
   color: var(--text-color);
 }
 
+/* .social-icons{
+  margin-bottom: 20px;
+} */
+
 /*=============== SCROLL UP ===============*/
 .scrollup {
   position: fixed;
